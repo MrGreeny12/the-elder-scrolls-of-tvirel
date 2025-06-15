@@ -11,10 +11,14 @@
             "id": "7a07ef36c99e92ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "index"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для index"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из index"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Note 2.md",
+                "file": "docs/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Note 2"
+              "title": "Структура index"
             }
           }
         ]
@@ -164,22 +170,28 @@
   },
   "active": "1106929fa609c995",
   "lastOpenFiles": [
+    "inbox",
+    "docs/settlements",
+    "docs/characters",
+    "docs/legends",
+    "docs/legends/Легенда о Граннусе.md",
+    "docs/index.md",
+    "docs/characters/Брайан.md",
+    "docs/settlements/Деверня Эмбруд.md",
+    "README.md",
+    "notes/Note 2.md",
+    "site/search/search_index.json",
+    "site/search",
+    "site/notes/Note 1/index.html",
+    "site/notes/Note 2/index.html",
+    "site/notes/Note 2",
+    "site/notes/Note 1",
+    "site/notes",
+    "site/assets/images/favicon.png",
     "docs/notes/Note 2.md",
     "docs/notes/Note 1.md",
-    "docs/notes",
-    "docs/index.md",
-    "docs",
-    "Новая папка",
-    "mkdocs.yml",
-    "uv.lock",
-    "README.md",
-    "pyproject.toml",
-    "main.py",
-    "images",
     "notes/Note 1.md",
-    "notes/Note 2.md",
     "index.md",
-    "notes",
     "Добро пожаловать.md"
   ]
 }

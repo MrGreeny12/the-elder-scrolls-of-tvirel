@@ -2,8 +2,11 @@
 site_name: Древние свитки Твирела и Зоэрна
 nav:
   - Домашняя: docs/index.md
-  - Статьи:
-      - Topic 1: docs/notes/Note 1.md
-      - Topic 2: docs/notes/Note 2.md
+  - Персонажи:
+      - Брайан: docs/characters/Брайан.md
+  - Населенные пункты:
+      - Деревня Эмбруд: docs/settlements/Деревня Эмбруд.md
+  - Мифы и легенды:
+      - Легенда о Граннусе: docs/legends/Легенда о Граннусе.md
 theme:
   name: material
