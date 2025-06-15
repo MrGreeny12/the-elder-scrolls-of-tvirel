@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/characters/Braian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Braian"
             }
           }
         ]
@@ -168,25 +168,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1106929fa609c995",
+  "active": "7a07ef36c99e92ad",
   "lastOpenFiles": [
-    "inbox",
-    "docs/settlements",
-    "docs/characters",
-    "docs/legends",
-    "docs/legends/Легенда о Граннусе.md",
     "docs/index.md",
-    "docs/characters/Брайан.md",
+    "site/search/search_index.json",
+    "site/search",
+    "site/settlements/Деверня Эмбруд/index.html",
+    "site/settlements/Деверня Эмбруд",
+    "site/settlements",
+    "site/legends/Легенда о Граннусе/index.html",
+    "site/legends/Легенда о Граннусе",
+    "site/legends",
+    "site/characters/Брайан/index.html",
+    "site/characters/Брайан",
+    "docs/legends/Легенда о Граннусе.md",
+    "docs/characters/Braian.md",
     "docs/settlements/Деверня Эмбруд.md",
     "README.md",
     "notes/Note 2.md",
-    "site/search/search_index.json",
-    "site/search",
-    "site/notes/Note 1/index.html",
-    "site/notes/Note 2/index.html",
-    "site/notes/Note 2",
-    "site/notes/Note 1",
-    "site/notes",
     "site/assets/images/favicon.png",
     "docs/notes/Note 2.md",
     "docs/notes/Note 1.md",

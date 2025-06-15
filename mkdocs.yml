@@ -3,7 +3,7 @@ site_name: Древние свитки Твирела и Зоэрна
 nav:
   - Домашняя: docs/index.md
   - Персонажи:
-      - Брайан: docs/characters/Брайан.md
+      - Брайан: docs/characters/Braian.md
   - Населенные пункты:
       - Деревня Эмбруд: docs/settlements/Деревня Эмбруд.md
   - Мифы и легенды:
