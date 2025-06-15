@@ -1,12 +1,12 @@
 # mkdocs.yml
 site_name: Древние свитки Твирела и Зоэрна
 nav:
-  - Домашняя: docs/index.md
+  - Домашняя: index.md
   - Персонажи:
-      - Брайан: docs/characters/Braian.md
+      - Брайан: characters/Braian.md
   - Населенные пункты:
-      - Деревня Эмбруд: docs/settlements/Деревня Эмбруд.md
+      - Деревня Эмбруд: settlements/Деревня Эмбруд.md
   - Мифы и легенды:
-      - Легенда о Граннусе: docs/legends/Легенда о Граннусе.md
+      - Легенда о Граннусе: legends/Легенда о Граннусе.md
 theme:
   name: material
