@@ -11,14 +11,10 @@
             "id": "7a07ef36c99e92ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Note 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Note 2"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -40,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Note 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Note 2"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Note 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Note 2"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -170,6 +164,17 @@
   },
   "active": "1106929fa609c995",
   "lastOpenFiles": [
+    "docs/notes/Note 2.md",
+    "docs/notes/Note 1.md",
+    "docs/notes",
+    "docs/index.md",
+    "docs",
+    "Новая папка",
+    "mkdocs.yml",
+    "uv.lock",
+    "README.md",
+    "pyproject.toml",
+    "main.py",
     "images",
     "notes/Note 1.md",
     "notes/Note 2.md",

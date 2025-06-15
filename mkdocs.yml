@@ -1,0 +1,9 @@
+# mkdocs.yml
+site_name: Древние свитки Твирела и Зоэрна
+nav:
+  - Домашняя: docs/index.md
+  - Статьи:
+      - Topic 1: docs/notes/Note 1.md
+      - Topic 2: docs/notes/Note 2.md
+theme:
+  name: material
