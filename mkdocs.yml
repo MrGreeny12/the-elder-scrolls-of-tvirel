@@ -5,8 +5,17 @@ nav:
   - Персонажи:
       - Брайан: characters/Braian.md
   - Населенные пункты:
-      - Деревня Эмбруд: settlements/Деревня Эмбруд.md
+      - Деревня Эмбруд: settlements/Деверня Эмбруд.md
   - Мифы и легенды:
       - Легенда о Граннусе: legends/Легенда о Граннусе.md
+
+plugins:
+  - search
+  - roamlinks 
+
 theme:
   name: material
+  palette:
+    primary: blue grey
+    accent: teal
+    scheme: slate
