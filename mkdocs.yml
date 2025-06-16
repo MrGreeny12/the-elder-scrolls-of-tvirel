@@ -2,16 +2,23 @@
 site_name: Древние свитки Твирела и Зоэрна
 nav:
   - Домашняя: index.md
+  - Хронология: hronology.md
+  - Истории и книги:
+      - Сны демонов (книга): stories/Сны демонов.md
+  - Миры:
+      - Твирел: worlds/Твирел.md
+  - Исторические события:
+      - Легенда о Граннусе-Освободителе: history/Легенда о Граннусе-Освободителе.md
   - Персонажи:
       - Брайан: characters/Брайан.md
+      - Граннус-Освободитель: characters/Граннус-Освободитель.md
   - Населенные пункты:
       - Деревня Эмбруд: settlements/Деверня Эмбруд.md
-  - Мифы и легенды:
-      - Легенда о Граннусе: legends/Легенда о Граннусе.md
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - obsidian-support
 
 theme:
   name: material
@@ -19,3 +26,7 @@ theme:
     primary: blue grey
     accent: teal
     scheme: slate
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+  language: ru
