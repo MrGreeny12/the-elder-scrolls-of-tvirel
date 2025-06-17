@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce27184a513cb5b",
+        "id": "8a4c484a90ea6283",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba85aabae4ddec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/worlds/Твирел.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Твирел"
-            }
-          },
-          {
-            "id": "7bde34005c9d3971",
+            "id": "00e1f4439b0a42aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,8 +20,37 @@
               "icon": "lucide-file",
               "title": "hronology.md"
             }
+          },
+          {
+            "id": "86ce556295627ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/history/Восхождение Тарлока Осквернителя.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Восхождение Тарлока Осквернителя"
+            }
+          },
+          {
+            "id": "c96d8af62dc1ffa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/characters/Император Тарлок I \"Осквернитель\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Император Тарлок I \"Осквернитель\""
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,27 +197,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1106929fa609c995",
+  "active": "86ce556295627ce8",
   "lastOpenFiles": [
-    "docs/Твирел.png",
-    "docs/worlds/Твирел.md",
-    "inbox/Без названия.md",
-    "docs/worlds",
     "docs/hronology.md.md",
-    "docs/history/Легенда о Граннусе-Освободителе.md",
-    "docs/characters/Граннус-Освободитель.md",
+    "docs/history/Восхождение Тарлока Осквернителя.md",
+    "docs/characters/Император Тарлок I \"Осквернитель\".md",
+    "docs/states/Королевство Арверн.md",
+    "docs/states/Королевство Кимбает.md",
+    "docs/states/Королевство Галат.md",
+    "docs/states",
     "factories/Персонаж.md",
-    "docs/index.md",
-    "Без названия",
-    "docs/stories/Сны демонов.md",
-    "docs/stories",
+    "factories/Локация.md",
+    "factories/Историческое событие.md",
+    "inbox/Без названия.md",
+    "docs/history/Легенда о Граннусе-Освободителе.md",
+    "docs/worlds/Твирел.md",
     "site/search/search_index.json",
     "site/search",
+    "site/worlds/Твирел/index.html",
+    "site/worlds/Твирел",
+    "site/worlds",
+    "site/stories/Сны демонов/index.html",
+    "site/stories/Сны демонов",
+    "site/stories",
     "site/settlements/Деверня Эмбруд/index.html",
-    "site/settlements/Деверня Эмбруд",
-    "site/settlements",
-    "site/legends/Легенда о Граннусе/index.html",
-    "site/legends/Легенда о Граннусе",
+    "site/hronology.md",
+    "site/Твирел.png",
+    "docs/Твирел.png",
+    "docs/characters/Граннус-Освободитель.md",
+    "docs/index.md",
+    "docs/stories/Сны демонов.md",
     "docs/characters/Брайан.md",
     "docs/settlements/Деверня Эмбруд.md",
     "docs/settlements/Деверня Эмбруд 1.md",
