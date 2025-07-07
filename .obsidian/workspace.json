@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7099876113b385c3",
+        "id": "a7c7808b41c62448",
         "type": "tabs",
         "children": [
           {
-            "id": "f3ae36d7c78ba309",
+            "id": "5b3ac376d87b68bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f3ae36d7c78ba309",
+  "active": "5b3ac376d87b68bc",
   "lastOpenFiles": [
+    "docs/phenomenon",
+    "docs/phenomenon/Магия.md",
+    "docs/history/Гражданская война 2149 – 2153 г.г. ПЭ.md",
+    "docs/states/Союз вольных городов.md",
+    "docs/settlements/Замок тлеющей славы.md",
+    "docs/characters/Граннус-Освободитель.md",
+    "docs/hronology.md.md",
     "site/search/search_index.json",
     "site/search",
     "site/worlds/Твирел/index.html",
@@ -174,16 +181,12 @@
     "site/stories/Сны демонов/index.html",
     "site/stories/Сны демонов",
     "site/stories",
-    "site/states/Королевство Галат/index.html",
     "site/states/Королевство Кимбает/index.html",
-    "site/states/Королевство Арверн/index.html",
+    "site/states/Королевство Галат/index.html",
     "site/hronology.md",
     "site/assets/images/favicon.png",
     "site/Твирел.png",
-    "docs/hronology.md.md",
-    "docs/history/Гражданская война 2149 – 2153 г.г. ПЭ.md",
     "inbox/2025-06-20.md",
-    "docs/characters/Граннус-Освободитель.md",
     "docs/history/Восхождение Тарлока Осквернителя.md",
     "docs/states/Империя людей.md",
     "docs/characters/Император Тарлок I \"Осквернитель\".md",
@@ -201,9 +204,6 @@
     "docs/characters/Брайан.md",
     "docs/settlements/Деверня Эмбруд.md",
     "docs/settlements/Деверня Эмбруд 1.md",
-    "README.md",
-    "notes/Note 2.md",
-    "docs/notes/Note 2.md",
-    "docs/notes/Note 1.md"
+    "README.md"
   ]
 }
