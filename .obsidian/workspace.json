@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3cffbd8c723384",
+        "id": "2daefc4219e79378",
         "type": "tabs",
         "children": [
           {
-            "id": "0b04645beb8cb122",
+            "id": "c929b703c4c32971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Исторические события Твирела.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Исторические события Твирела"
-            }
-          },
-          {
-            "id": "db64211f6b7f76ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Глобальные явления.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Глобальные явления"
-            }
-          },
-          {
-            "id": "01da2689b5c20041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Истории.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Истории"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -106,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "59045487e3cd58b3",
@@ -196,47 +165,48 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0b04645beb8cb122",
+  "active": "c929b703c4c32971",
   "lastOpenFiles": [
-    "docs/Твирел.md",
-    "docs/Глобальные явления.md",
-    "inbox/Истории.md",
+    "docs/races/Шерги.md",
+    "docs/races/Дэлинор.md",
+    "docs/races",
+    "docs/Исторические события Зоэрна.md",
+    "docs/history/Великая Северная Оборона.md",
+    "docs/Исторические события Твирела.md",
     "docs/Зоэрн.md",
     "docs/pic_Зоэрн.jpg",
-    "docs/index.md",
-    "docs/pic_Твирел.png",
-    "docs/phenomenon/Магия.md",
+    "docs/states/Империум Шергов.md",
+    "docs/states/Королевство Арверн.md",
+    "docs/states/Королевство Кимбает.md",
+    "docs/states/Королевство Галат.md",
+    "docs/states/Империя людей.md",
+    "docs/states/Союз вольных городов.md",
+    "docs/soviets/Орден Богов Хаоса.md",
+    "docs/soviets",
+    "docs/Твирел.md",
+    "docs/history/Восхождение Тарлока Осквернителя.md",
+    "docs/Истории.md",
+    "docs/Глобальные явления.md",
     "site/search/search_index.json",
     "site/search",
-    "site/worlds/Твирел/index.html",
-    "site/worlds/Твирел",
-    "site/worlds",
     "site/stories/Сны демонов/index.html",
     "site/stories/Сны демонов",
     "site/stories",
     "site/states/Союз вольных городов/index.html",
     "site/states/Королевство Кимбает/index.html",
-    "site/hronology.md",
+    "site/states/Королевство Галат/index.html",
     "site/assets/images/favicon.png",
+    "site/pic_Твирел.png",
+    "site/pic_Зоэрн.jpg",
+    "docs/index.md",
+    "docs/pic_Твирел.png",
+    "docs/phenomenon/Магия.md",
+    "site/hronology.md",
     "site/Твирел.png",
     "factories/Историческое событие.md",
     "factories/Локация.md",
     "factories/Персонаж.md",
-    "docs/Исторические события Твирела.md",
     "docs/stories/Сны демонов.md",
-    "docs/states/Союз вольных городов.md",
-    "docs/states/Империя людей.md",
-    "docs/states/Королевство Галат.md",
-    "docs/states/Королевство Кимбает.md",
-    "docs/states/Королевство Арверн.md",
-    "docs/settlements/Замок тлеющей славы.md",
-    "docs/settlements/Деверня Эмбруд.md",
-    "docs/history/Восхождение Тарлока Осквернителя.md",
-    "docs/history/Гражданская война 2149 – 2153 г.г. ПЭ.md",
-    "docs/characters/Император Тарлок I \"Осквернитель\".md",
-    "docs/characters/Граннус-Освободитель.md",
-    "docs/characters/Брайан.md",
-    "inbox/2025-06-20.md",
-    "docs/settlements/Деверня Эмбруд 1.md"
+    "docs/settlements/Замок тлеющей славы.md"
   ]
 }
