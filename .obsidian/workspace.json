@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "59045487e3cd58b3",
@@ -157,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -167,6 +167,9 @@
   },
   "active": "c929b703c4c32971",
   "lastOpenFiles": [
+    "update.sh",
+    "update_my_wiki.sh",
+    "README.md",
     "site/search/search_index.json",
     "site/search",
     "site/stories/Сны демонов/index.html",
@@ -176,8 +179,6 @@
     "site/states/Королевство Кимбает/index.html",
     "site/states/Королевство Галат/index.html",
     "site/states/Королевство Арверн/index.html",
-    "site/states/Империя людей/index.html",
-    "site/states/Империум Шергов/index.html",
     "site/assets/images/favicon.png",
     "site/pic_Твирел.png",
     "site/pic_Зоэрн.jpg",
@@ -207,7 +208,6 @@
     "factories/Историческое событие.md",
     "factories/Локация.md",
     "factories/Персонаж.md",
-    "docs/stories/Сны демонов.md",
-    "docs/settlements/Замок тлеющей славы.md"
+    "docs/stories/Сны демонов.md"
   ]
 }
