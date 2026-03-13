@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2daefc4219e79378",
+        "id": "64f99874473c940a",
         "type": "tabs",
         "children": [
           {
-            "id": "c929b703c4c32971",
+            "id": "170942cc3d035476",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/characters/Император Тарлок I \"Осквернитель\".md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Император Тарлок I \"Осквернитель\""
             }
           }
         ]
@@ -165,10 +169,8 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c929b703c4c32971",
+  "active": "170942cc3d035476",
   "lastOpenFiles": [
-    "update.sh",
-    "update_my_wiki.sh",
     "README.md",
     "site/search/search_index.json",
     "site/search",
@@ -179,6 +181,7 @@
     "site/states/Королевство Кимбает/index.html",
     "site/states/Королевство Галат/index.html",
     "site/states/Королевство Арверн/index.html",
+    "site/states/Империя людей/index.html",
     "site/assets/images/favicon.png",
     "site/pic_Твирел.png",
     "site/pic_Зоэрн.jpg",
